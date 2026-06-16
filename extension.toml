@@ -1,0 +1,7 @@
+id = "zed-duotone"
+name = "DuoTone"
+version = "0.1.0"
+schema_version = 1
+authors = ["dwjordan"]
+description = "DuoTone themes for Zed (dark and light variants), ported from the VS Code extension by Sallar Kaboli (based on the original Atom themes by simurai)"
+repository = "https://github.com/dwjordan/zed-duotone"
